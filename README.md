@@ -6,3 +6,4 @@
 * Logistic Regression and Linear Regression
 * Ensemble Learning
 * Clustering
+* CNN
